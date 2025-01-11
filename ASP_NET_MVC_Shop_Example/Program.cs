@@ -1,4 +1,5 @@
 using ASP_NET_MVC_Shop_Example.Data;
+using ASP_NET_MVC_Shop_Example.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace ASP_NET_MVC_Shop_Example
@@ -13,7 +14,13 @@ namespace ASP_NET_MVC_Shop_Example
             string connection = builder.Configuration.GetConnectionString("DefaultConnection");
 
             // добавляем контекст ApplicationContext в качестве сервиса в приложение
-            builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlite(connection));
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlite(connection);
+            });
+
+            builder.Services.AddSingleton<IStateStorage, PreviousStateStorage>();
+            builder.Services.AddSingleton<SortStateService>();
 
             builder.Services.AddControllersWithViews();
 

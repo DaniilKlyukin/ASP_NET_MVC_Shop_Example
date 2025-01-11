@@ -11,10 +11,13 @@ namespace ASP_NET_MVC_Shop_Example.Models
         [StringLength(100)]
         public string? Name { get; set; }
 
+        [Display(Name = "Цена, руб")]
+        [DataType(DataType.Currency)]
         [Required(ErrorMessage = "Не указана цена")]
         [Range(0.01, double.MaxValue, ErrorMessage = "Цена должна быть не менее 0,01")]
-        public decimal Price { get; set; }
+        public double Price { get; set; }
 
+        [Display(Name = "Описание")]
         [StringLength(500)]
         public string? Description { get; set; }
     }

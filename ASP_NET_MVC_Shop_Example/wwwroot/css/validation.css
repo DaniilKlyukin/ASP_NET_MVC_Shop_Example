@@ -1,0 +1,42 @@
+span.field-validation-error {
+    color: red;
+    font-size: 12px;
+}
+
+.validation-summary-errors {
+    background-color: #f8d7da; /* Светло-красный фон */
+    color: #721c24; /* Темно-красный текст */
+    border: 1px solid #f5c6cb; /* Светло-красная рамка */
+    padding: 15px; /* Внутренний отступ */
+    border-radius: 5px; /* Скругление углов */
+    margin-bottom: 20px; /* Отступ снизу */
+    font-family: Arial, sans-serif; /* Шрифт */
+    font-size: 14px; /* Размер шрифта */
+}
+
+    .validation-summary-errors ul {
+        padding-left: 10px;
+    }
+
+    .validation-summary-errors li {
+        margin: 5px 0; /* Отступ между элементами списка */
+    }
+
+    /* Дополнительный стиль для иконки ошибки (если необходимо) */
+    .validation-summary-errors::before {
+        content: "⚠️"; /* Иконка предупреждения */
+        font-size: 20px; /* Размер иконки */
+        margin-right: 10px; /* Отступ справа */
+        vertical-align: middle; /* Выравнивание по вертикали */
+    }
+
+
+input.input-validation-error {
+    border: 1px solid red;
+    background-color: rgb(255, 221, 221, 0.2);
+}
+
+input.valid, textarea.valid {
+    border: 1px solid green;
+    background-color: rgb(210, 255, 210, 0.2);
+}

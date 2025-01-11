@@ -1,0 +1,75 @@
+.button {
+  display: inline-block;
+  /* Позволяет добавлять отступы и размеры */
+  padding: 10px 20px;
+  /* Отступы внутри кнопки */
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  /* Жирный текст */
+  /* Цвет текста */
+  text-align: center;
+  /* Центрирование текста */
+  text-decoration: none;
+  /* Убираем подчеркивание */
+  border-radius: 5px;
+  /* Закругленные углы */
+  border: none;
+  /* Убираем рамку */
+  transition: background-color 0.3s ease;
+  /* Плавный переход цвета фона */
+}
+
+.button:hover {
+    cursor: default;
+}
+
+.bg-green {
+    background-color: rgb(0, 190, 0);
+    /* Цвет фона кнопки */
+}
+
+.bg-green:hover {
+    background-color: rgb(0, 225, 0);
+    /* Цвет фона при наведении */
+}
+
+.bg-green:active {
+    background-color: rgb(0, 255, 0);
+    /* Цвет фона при нажатии */
+}
+
+.bg-yellow {
+    background-color: rgb(190, 190, 0);
+}
+
+.bg-yellow:hover {
+    background-color: rgb(225, 225, 0);
+}
+
+.bg-yellow:active {
+    background-color: rgb(255, 255, 0);
+}
+
+.bg-red {
+    background-color: rgb(190, 0, 0);
+}
+
+.bg-red:hover {
+    background-color: rgb(225, 0, 0);
+}
+
+.bg-red:active {
+  background-color: rgb(255, 0, 0);
+}
+
+.bg-blue {
+    background-color: rgb(0, 100, 190);
+}
+
+.bg-blue:hover {
+  background-color: rgb(0, 145, 225);
+}
+
+.bg-blue:active {
+    background-color: rgb(0, 190, 255);
+}

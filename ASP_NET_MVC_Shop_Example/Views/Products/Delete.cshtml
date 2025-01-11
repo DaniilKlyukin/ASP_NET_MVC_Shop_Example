@@ -8,7 +8,7 @@
 @model Product
 
 <div class="form-container">
-    <h3>Вы уверены, что хотите удалить товар @Model.Name?</h3>
+    <h3 class="dark bold">Вы уверены, что хотите удалить товар @Model.Name?</h3>
 
     <form asp-action="Delete" asp-route-id="@Model.Id">
         <input class="button bg-red" type="submit" value="Удалить" />

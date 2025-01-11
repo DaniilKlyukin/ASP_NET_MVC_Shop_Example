@@ -1,42 +1,82 @@
 ﻿@using ASP_NET_MVC_Shop_Example.Models
 
-@model IEnumerable<Product>
+@model IndexViewModel
 
 @{
     ViewBag.Title = "Список товаров";
     Layout = "/Views/Shared/_Layout.cshtml";
 }
 
-<h3>@ViewBag.Title</h3>
+<div class="container">
+    @await Html.PartialAsync("ProductFilter", @Model.FilterState, ViewData)
 
-<p>
-    <a class="button bg-green" asp-action="Create">Добавить товар</a>
-</p>
+    <div class="content">
+        <button class="apply-filters" id="toggleButton">Скрыть фильтры</button><br />
 
-<table class="styled-table">
-    <thead>
-        <tr>
-            <th>Название</th>
-            <th>Цена</th>
-            <th>Описание</th>
-            <th></th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var product in Model)
-        {
-            <tr>
-                <td>@product.Name</td>
-                <td>@product.Price.ToString("C")</td>
-                <td>@product.Description</td>
-                <td>
-                    <a class="button bg-yellow" asp-action="Edit" asp-route-id="@product.Id">Редактировать</a>
-                </td>
-                <td>
-                    <a class="button bg-red" asp-action="Delete" asp-route-id="@product.Id">Удалить</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+        <h3 class="dark bold">@ViewBag.Title</h3>
+
+        <p><a class="button bg-green" asp-action="Create">Добавить товар</a></p>
+
+        <table class="styled-table">
+            <thead>
+                <tr>
+                    <th>
+                        <sort-link asp-controller="Products"
+                                   asp-action="Index"
+                                   property="Name"
+                                   sort-direction="@Model.SortState.SortDirection"
+                                   current-sort-field="@Model.SortState.SortField"
+                                   asp-route-productName="@Model.FilterState.ProductName"
+                                   asp-route-minPrice="@Model.FilterState.MinPrice"
+                                   asp-route-maxPrice="@Model.FilterState.MaxPrice"
+                                   asp-route-sortField="Name"
+                                   asp-route-sortDirection="@Model.SortState.SortDirection">Название</sort-link>
+                    </th>
+                    <th>
+                        <sort-link asp-controller="Products"
+                                   asp-action="Index"
+                                   property="Price"
+                                   sort-direction="@Model.SortState.SortDirection"
+                                   current-sort-field="@Model.SortState.SortField"
+                                   asp-route-productName="@Model.FilterState.ProductName"
+                                   asp-route-minPrice="@Model.FilterState.MinPrice"
+                                   asp-route-maxPrice="@Model.FilterState.MaxPrice"
+                                   asp-route-sortField="Price"
+                                   asp-route-sortDirection="@Model.SortState.SortDirection">Цена, руб</sort-link>
+                    </th>
+                    <th>
+                        <sort-link asp-controller="Products"
+                                   asp-action="Index"
+                                   property="Description"
+                                   sort-direction="@Model.SortState.SortDirection"
+                                   current-sort-field="@Model.SortState.SortField"
+                                   asp-route-productName="@Model.FilterState.ProductName"
+                                   asp-route-minPrice="@Model.FilterState.MinPrice"
+                                   asp-route-maxPrice="@Model.FilterState.MaxPrice"
+                                   asp-route-sortField="Description"
+                                   asp-route-sortDirection="@Model.SortState.SortDirection">Описание</sort-link>
+                    </th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model.Products)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>@product.Price.ToString("C")</td>
+                        <td>@product.Description</td>
+                        <td>
+                            <a class="button bg-yellow" asp-action="Edit" asp-route-id="@product.Id">Редактировать</a>
+                        </td>
+                        <td>
+                            <a class="button bg-red" asp-action="Delete" asp-route-id="@product.Id">Удалить</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

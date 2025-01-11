@@ -1,0 +1,47 @@
+.styled-table {
+  width: 100%;
+  min-width: 800px;
+  /* Ширина таблицы */
+  border-collapse: collapse;
+  /* Убираем двойные границы */
+  margin: 20px 0px;
+  /* Отступы вокруг таблицы */
+  border-radius: 10px;
+  /* Закругленные углы */
+  overflow: hidden;
+  /* Убираем выступающие углы */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /* Тень под таблицей */
+}
+
+.styled-table thead {
+  background-color: #007bff;
+  /* Цвет фона заголовка */
+  color: #ffffff;
+  /* Цвет текста заголовка */
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+  /* Отступы внутри ячеек */
+  text-align: left;
+  /* Выравнивание текста */
+}
+
+.styled-table tbody tr {
+  background-color: #ffffff;
+  /* Цвет фона для строк */
+  transition: background-color 0.3s;
+  /* Плавный переход цвета фона */
+}
+
+.styled-table tbody tr:hover {
+  background-color: #f1f1f1;
+  /* Цвет фона при наведении на строку */
+}
+
+.styled-table tbody td {
+  border-bottom: 1px solid #dddddd;
+  /* Нижняя граница ячеек */
+}

@@ -1,239 +1,275 @@
 {
   "Files": [
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\styles.css",
-      "PackagePath": "staticwebassets\\css\\styles.css"
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\button.css",
+      "PackagePath": "staticwebassets\\css\\button.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\favicon.ico",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\container.css",
+      "PackagePath": "staticwebassets\\css\\container.css"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\filter.css",
+      "PackagePath": "staticwebassets\\css\\filter.css"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\sort_link.css",
+      "PackagePath": "staticwebassets\\css\\sort_link.css"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\table.css",
+      "PackagePath": "staticwebassets\\css\\table.css"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\validation.css",
+      "PackagePath": "staticwebassets\\css\\validation.css"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\js\\hide_filter.js",
+      "PackagePath": "staticwebassets\\js\\hide_filter.js"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\js\\price_check.js",
+      "PackagePath": "staticwebassets\\js\\price_check.js"
+    },
+    {
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

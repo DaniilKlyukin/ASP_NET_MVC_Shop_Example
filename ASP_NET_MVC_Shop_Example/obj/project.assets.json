@@ -6753,11 +6753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example.csproj",
+      "projectUniqueName": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example.csproj",
       "projectName": "ASP_NET_MVC_Shop_Example",
-      "projectPath": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example.csproj",
+      "projectPath": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example.csproj",
       "packagesPath": "C:\\Users\\anato\\.nuget\\packages\\",
-      "outputPath": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\obj\\",
+      "outputPath": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,7 +8,7 @@
 @model Product
 
 <div class="form-container">
-    <h3>@ViewBag.Title</h3>
+    <h3 class="dark bold">@ViewBag.Title</h3>
     <form asp-action="Edit" asp-route-id="@Model.Id">
         <p>
             <label asp-for="Name"></label><br />
@@ -16,12 +16,12 @@
             <span asp-validation-for="Name" />
         </p>
         <p>
-            <label asp-for="Price">Цена, руб</label><br />
-            <input type="number" step=".01" asp-for="Price" /><br />
+            <label asp-for="Price"></label><br />
+            <input type="number" step="1" asp-for="Price" /><br />
             <span asp-validation-for="Price" />
         </p>
         <p>
-            <label asp-for="Description">Описание</label><br />
+            <label asp-for="Description"></label><br />
             <textarea type="text" asp-for="Description"></textarea><br />
             <span asp-validation-for="Description" />
         </p>

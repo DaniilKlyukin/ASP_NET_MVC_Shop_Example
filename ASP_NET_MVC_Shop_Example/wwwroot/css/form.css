@@ -1,0 +1,27 @@
+.form-container {
+    font-size: 16px;
+    background-color: #ffffff; /* Цвет фона формы */
+    border-radius: 10px; /* Закругленные углы */
+    padding: 10px; /* Отступы внутри формы */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Тень под формой */
+    max-width: 400px; /* Максимальная ширина формы */
+    margin: auto; /* Центрирование формы */
+}
+
+input,
+textarea {
+    font-size: 16px;
+    width: 100%; /* Ширина полей ввода */
+    padding: 10px; /* Отступы внутри полей ввода */
+    border: 1px solid #cccccc; /* Граница полей ввода */
+    border-radius: 5px; /* Закругленные углы полей ввода */
+    transition: border-color 0.3s; /* Плавный переход цвета границы */
+    box-sizing: border-box; /* Учитывать отступы и границы в общей ширине */
+}
+
+input:focus,
+textarea:focus {
+  border-color: #007bff; /* Цвет границы при фокусе */
+  outline: none; /* Убираем обводку при фокусе */
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Тень при фокусе */
+}

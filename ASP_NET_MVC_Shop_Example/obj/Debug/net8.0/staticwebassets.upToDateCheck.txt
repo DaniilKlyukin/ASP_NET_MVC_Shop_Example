@@ -1,5 +1,14 @@
-wwwroot\css\styles.css
+wwwroot\css\button.css
+wwwroot\css\container.css
+wwwroot\css\filter.css
+wwwroot\css\form.css
+wwwroot\css\site.css
+wwwroot\css\sort_link.css
+wwwroot\css\table.css
+wwwroot\css\validation.css
 wwwroot\favicon.ico
+wwwroot\js\hide_filter.js
+wwwroot\js\price_check.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css

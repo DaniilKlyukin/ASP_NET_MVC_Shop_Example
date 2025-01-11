@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3Na+0wAEP3681B47BGOrzhJYxmRQ4hNSoIKZgxvXNzA=",
+  "Hash": "Zrq6bKwoKO49xiX18emAOyqdzlPvfeplgDsaVtuWckM=",
   "Source": "ASP_NET_MVC_Shop_Example",
   "BasePath": "_content/ASP_NET_MVC_Shop_Example",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "ASP_NET_MVC_Shop_Example\\wwwroot",
       "Source": "ASP_NET_MVC_Shop_Example",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\styles.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\button.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
-      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "RelativePath": "css/button#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,17 +31,164 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "krivmjmj3f",
-      "Integrity": "QG1yndLkZzyFdCNztMmE5XgYYm2Z0eF3cVqUBnDW0f8=",
+      "Fingerprint": "rp4hd3vsya",
+      "Integrity": "4cT6SGynPPntEJM4Q4lupelQBcSgirKx2YW+KAu4mKc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+      "OriginalItemSpec": "wwwroot\\css\\button.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\favicon.ico",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\container.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "css/container#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jybsqangxj",
+      "Integrity": "i12Eygh9PeFOOzc+e5yH0CrXB8lCH5AW+1gKkIO2ukY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\container.css"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\filter.css",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "css/filter#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "alu3rj3gm3",
+      "Integrity": "YusLPsdx2b+wpndJIXBHDaz6g/ZA03Rjp9YbqS5lvkE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\filter.css"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\form.css",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "css/form#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m93nyn9zts",
+      "Integrity": "tiE8CwycyOn6rHKFk35J2R77UZjgmexR95fG7Ur7dz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\form.css"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\site.css",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vfs4mf1eat",
+      "Integrity": "+2orj6Gitvwneg5wVOliceJRXHmUyeCXaU4oWoDPYZQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\sort_link.css",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "css/sort_link#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lac40zflne",
+      "Integrity": "PbPTmoHNvOw18avOTnDnZrCPKRwoXuRAsO12avHgEoQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sort_link.css"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\table.css",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "css/table#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n40av04vqi",
+      "Integrity": "2WHWT7yVFlmEKADTtvYL0Ftm+egcYwBjiTjN/jOnrYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\table.css"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\validation.css",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "css/validation#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y8u3vufk8y",
+      "Integrity": "Hp2U9LY/vSTcH/2nT9bpg8VqrzrVnUQxfqTeISoRpq4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\validation.css"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\favicon.ico",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -59,10 +206,52 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\js\\hide_filter.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "js/hide_filter#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arfxuqok53",
+      "Integrity": "BtTUmezhXMhLFHxIgn1zzeZz3xNcEhahvwz0MEFC14A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\hide_filter.js"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\js\\price_check.js",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "BasePath": "_content/ASP_NET_MVC_Shop_Example",
+      "RelativePath": "js/price_check#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vkdx78m8ku",
+      "Integrity": "AVZGNX+AVCvIGhUhfqqTIW/xUT1fDNZdVQmgx40tJLY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\price_check.js"
+    },
+    {
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ASP_NET_MVC_Shop_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -101,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -143,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -185,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -227,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -752,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -794,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -878,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1004,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1088,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1193,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ASP_NET_MVC_Shop_Example",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
+      "ContentRoot": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\",
       "BasePath": "_content/ASP_NET_MVC_Shop_Example",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1258,8 +1447,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/styles.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\styles.css",
+      "Route": "css/button.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\button.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1268,7 +1457,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4774"
+          "Value": "1608"
         },
         {
           "Name": "Content-Type",
@@ -1276,11 +1465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QG1yndLkZzyFdCNztMmE5XgYYm2Z0eF3cVqUBnDW0f8=\""
+          "Value": "\"4cT6SGynPPntEJM4Q4lupelQBcSgirKx2YW+KAu4mKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 13:15:12 GMT"
+          "Value": "Wed, 08 Jan 2025 19:14:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1290,13 +1479,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QG1yndLkZzyFdCNztMmE5XgYYm2Z0eF3cVqUBnDW0f8="
+          "Value": "sha256-4cT6SGynPPntEJM4Q4lupelQBcSgirKx2YW+KAu4mKc="
         }
       ]
     },
     {
-      "Route": "css/styles.krivmjmj3f.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\styles.css",
+      "Route": "css/button.rp4hd3vsya.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\button.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1305,7 +1494,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4774"
+          "Value": "1608"
         },
         {
           "Name": "Content-Type",
@@ -1313,11 +1502,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QG1yndLkZzyFdCNztMmE5XgYYm2Z0eF3cVqUBnDW0f8=\""
+          "Value": "\"4cT6SGynPPntEJM4Q4lupelQBcSgirKx2YW+KAu4mKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 13:15:12 GMT"
+          "Value": "Wed, 08 Jan 2025 19:14:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1327,21 +1516,595 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "krivmjmj3f"
+          "Value": "rp4hd3vsya"
         },
         {
           "Name": "label",
-          "Value": "css/styles.css"
+          "Value": "css/button.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QG1yndLkZzyFdCNztMmE5XgYYm2Z0eF3cVqUBnDW0f8="
+          "Value": "sha256-4cT6SGynPPntEJM4Q4lupelQBcSgirKx2YW+KAu4mKc="
+        }
+      ]
+    },
+    {
+      "Route": "css/container.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\container.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i12Eygh9PeFOOzc+e5yH0CrXB8lCH5AW+1gKkIO2ukY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 08:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i12Eygh9PeFOOzc+e5yH0CrXB8lCH5AW+1gKkIO2ukY="
+        }
+      ]
+    },
+    {
+      "Route": "css/container.jybsqangxj.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\container.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i12Eygh9PeFOOzc+e5yH0CrXB8lCH5AW+1gKkIO2ukY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 08:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jybsqangxj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/container.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i12Eygh9PeFOOzc+e5yH0CrXB8lCH5AW+1gKkIO2ukY="
+        }
+      ]
+    },
+    {
+      "Route": "css/filter.alu3rj3gm3.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\filter.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YusLPsdx2b+wpndJIXBHDaz6g/ZA03Rjp9YbqS5lvkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 19:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "alu3rj3gm3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/filter.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YusLPsdx2b+wpndJIXBHDaz6g/ZA03Rjp9YbqS5lvkE="
+        }
+      ]
+    },
+    {
+      "Route": "css/filter.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\filter.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YusLPsdx2b+wpndJIXBHDaz6g/ZA03Rjp9YbqS5lvkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 19:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YusLPsdx2b+wpndJIXBHDaz6g/ZA03Rjp9YbqS5lvkE="
+        }
+      ]
+    },
+    {
+      "Route": "css/form.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\form.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tiE8CwycyOn6rHKFk35J2R77UZjgmexR95fG7Ur7dz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tiE8CwycyOn6rHKFk35J2R77UZjgmexR95fG7Ur7dz0="
+        }
+      ]
+    },
+    {
+      "Route": "css/form.m93nyn9zts.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\form.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tiE8CwycyOn6rHKFk35J2R77UZjgmexR95fG7Ur7dz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m93nyn9zts"
+        },
+        {
+          "Name": "label",
+          "Value": "css/form.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tiE8CwycyOn6rHKFk35J2R77UZjgmexR95fG7Ur7dz0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+2orj6Gitvwneg5wVOliceJRXHmUyeCXaU4oWoDPYZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 19:24:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+2orj6Gitvwneg5wVOliceJRXHmUyeCXaU4oWoDPYZQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.vfs4mf1eat.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+2orj6Gitvwneg5wVOliceJRXHmUyeCXaU4oWoDPYZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 19:24:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vfs4mf1eat"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+2orj6Gitvwneg5wVOliceJRXHmUyeCXaU4oWoDPYZQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/sort_link.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\sort_link.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbPTmoHNvOw18avOTnDnZrCPKRwoXuRAsO12avHgEoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 17:32:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PbPTmoHNvOw18avOTnDnZrCPKRwoXuRAsO12avHgEoQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/sort_link.lac40zflne.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\sort_link.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbPTmoHNvOw18avOTnDnZrCPKRwoXuRAsO12avHgEoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 17:32:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lac40zflne"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sort_link.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PbPTmoHNvOw18avOTnDnZrCPKRwoXuRAsO12avHgEoQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/table.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\table.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WHWT7yVFlmEKADTtvYL0Ftm+egcYwBjiTjN/jOnrYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 19:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WHWT7yVFlmEKADTtvYL0Ftm+egcYwBjiTjN/jOnrYs="
+        }
+      ]
+    },
+    {
+      "Route": "css/table.n40av04vqi.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\table.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WHWT7yVFlmEKADTtvYL0Ftm+egcYwBjiTjN/jOnrYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 19:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n40av04vqi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/table.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WHWT7yVFlmEKADTtvYL0Ftm+egcYwBjiTjN/jOnrYs="
+        }
+      ]
+    },
+    {
+      "Route": "css/validation.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\validation.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hp2U9LY/vSTcH/2nT9bpg8VqrzrVnUQxfqTeISoRpq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:52:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hp2U9LY/vSTcH/2nT9bpg8VqrzrVnUQxfqTeISoRpq4="
+        }
+      ]
+    },
+    {
+      "Route": "css/validation.y8u3vufk8y.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\css\\validation.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hp2U9LY/vSTcH/2nT9bpg8VqrzrVnUQxfqTeISoRpq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 13:52:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y8u3vufk8y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/validation.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hp2U9LY/vSTcH/2nT9bpg8VqrzrVnUQxfqTeISoRpq4="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\favicon.ico",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1386,7 +2149,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\favicon.ico",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,8 +2185,172 @@
       ]
     },
     {
+      "Route": "js/hide_filter.arfxuqok53.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\js\\hide_filter.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtTUmezhXMhLFHxIgn1zzeZz3xNcEhahvwz0MEFC14A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 18:03:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arfxuqok53"
+        },
+        {
+          "Name": "label",
+          "Value": "js/hide_filter.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BtTUmezhXMhLFHxIgn1zzeZz3xNcEhahvwz0MEFC14A="
+        }
+      ]
+    },
+    {
+      "Route": "js/hide_filter.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\js\\hide_filter.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtTUmezhXMhLFHxIgn1zzeZz3xNcEhahvwz0MEFC14A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 18:03:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BtTUmezhXMhLFHxIgn1zzeZz3xNcEhahvwz0MEFC14A="
+        }
+      ]
+    },
+    {
+      "Route": "js/price_check.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\js\\price_check.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AVZGNX+AVCvIGhUhfqqTIW/xUT1fDNZdVQmgx40tJLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 09:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AVZGNX+AVCvIGhUhfqqTIW/xUT1fDNZdVQmgx40tJLY="
+        }
+      ]
+    },
+    {
+      "Route": "js/price_check.vkdx78m8ku.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\js\\price_check.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AVZGNX+AVCvIGhUhfqqTIW/xUT1fDNZdVQmgx40tJLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 09:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vkdx78m8ku"
+        },
+        {
+          "Name": "label",
+          "Value": "js/price_check.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AVZGNX+AVCvIGhUhfqqTIW/xUT1fDNZdVQmgx40tJLY="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1460,7 +2387,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1505,7 +2432,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1542,7 +2469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1587,7 +2514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1624,7 +2551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1669,7 +2596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1706,7 +2633,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1751,7 +2678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1788,7 +2715,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1833,7 +2760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1870,7 +2797,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1915,7 +2842,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1952,7 +2879,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1997,7 +2924,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2034,7 +2961,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2079,7 +3006,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2124,7 +3051,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2161,7 +3088,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2198,7 +3125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2243,7 +3170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2280,7 +3207,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2325,7 +3252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2362,7 +3289,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2407,7 +3334,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2444,7 +3371,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2489,7 +3416,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2526,7 +3453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2563,7 +3490,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2600,7 +3527,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2645,7 +3572,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2690,7 +3617,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2735,7 +3662,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2780,7 +3707,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2817,7 +3744,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2862,7 +3789,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2899,7 +3826,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2936,7 +3863,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2973,7 +3900,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3018,7 +3945,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3063,7 +3990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3108,7 +4035,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3145,7 +4072,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3190,7 +4117,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3227,7 +4154,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3264,7 +4191,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3301,7 +4228,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3346,7 +4273,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3391,7 +4318,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3428,7 +4355,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3473,7 +4400,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3510,7 +4437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3555,7 +4482,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3592,7 +4519,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3629,7 +4556,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3674,7 +4601,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3719,7 +4646,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3756,7 +4683,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3801,7 +4728,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3838,7 +4765,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3875,7 +4802,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3920,7 +4847,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3957,7 +4884,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4002,7 +4929,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4047,7 +4974,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4084,7 +5011,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4129,7 +5056,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4166,7 +5093,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4211,7 +5138,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4256,7 +5183,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4293,7 +5220,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4338,7 +5265,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4375,7 +5302,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4412,7 +5339,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4457,7 +5384,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4494,7 +5421,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4539,7 +5466,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4576,7 +5503,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4613,7 +5540,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4658,7 +5585,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4703,7 +5630,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4740,7 +5667,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4785,7 +5712,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4822,7 +5749,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4859,7 +5786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4896,7 +5823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4941,7 +5868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4986,7 +5913,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5031,7 +5958,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5068,7 +5995,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5113,7 +6040,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5158,7 +6085,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5195,7 +6122,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5240,7 +6167,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5285,7 +6212,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5322,7 +6249,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5359,7 +6286,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5404,7 +6331,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5441,7 +6368,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5486,7 +6413,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5523,7 +6450,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5568,7 +6495,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5605,7 +6532,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5642,7 +6569,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5687,7 +6614,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5724,7 +6651,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5769,7 +6696,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5806,7 +6733,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5851,7 +6778,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5896,7 +6823,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5933,7 +6860,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5978,7 +6905,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6015,7 +6942,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6060,7 +6987,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rbJe0RGxjrE=",
+  "dgSpecHash": "ToivGDpsdU4=",
   "success": true,
-  "projectFilePath": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example.csproj",
+  "projectFilePath": "F:\\должность ст преп\\ООП 4 сем\\Примеры\\ASP_NET_MVC_Shop_Example_2\\ASP_NET_MVC_Shop_Example\\ASP_NET_MVC_Shop_Example.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anato\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\anato\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,0 +1,29 @@
+﻿@using ASP_NET_MVC_Shop_Example.Models
+
+@model FilterState
+
+<div class="filter-panel" id="filterPanel">
+    <h3 class="dark bold">Фильтры</h3>
+    <form asp-action="index" asp-controller="products" method="get">
+        <p>
+            <label asp-for="@Model.ProductName"></label><br />
+            <input name="productName" type="text" asp-for="@Model.ProductName" /><br />
+            <span asp-validation-for="@Model.ProductName" />
+        </p>
+        <p>
+            <label asp-for="@Model.MinPrice"></label><br />
+            <input id="min-price" name="minPrice" type="number" step="1" asp-for="@Model.MinPrice" placeholder="от @ViewData["TotalMinPrice"]" onchange="checkMinPrice()" /><br />
+            <span asp-validation-for="@Model.MinPrice" />
+        </p>
+        <p>
+            <label asp-for="@Model.MaxPrice"></label><br />
+            <input id="max-price" name="maxPrice" type="number" step="1" asp-for="@Model.MaxPrice" placeholder="до @ViewData["TotalMaxPrice"]" onchange="checkMaxPrice()" /><br />
+            <span asp-validation-for="@Model.MaxPrice" />
+        </p>
+        <p>
+            <input class="button bg-blue" type="submit" value="Применить" />
+        </p>
+    </form>
+
+    <div asp-validation-summary="ModelOnly"></div>
+</div>
