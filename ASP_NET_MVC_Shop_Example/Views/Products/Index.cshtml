@@ -1,0 +1,42 @@
+﻿@using ASP_NET_MVC_Shop_Example.Models
+
+@model IEnumerable<Product>
+
+@{
+    ViewBag.Title = "Список товаров";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<h3>@ViewBag.Title</h3>
+
+<p>
+    <a class="button bg-green" asp-action="Create">Добавить товар</a>
+</p>
+
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Название</th>
+            <th>Цена</th>
+            <th>Описание</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price.ToString("C")</td>
+                <td>@product.Description</td>
+                <td>
+                    <a class="button bg-yellow" asp-action="Edit" asp-route-id="@product.Id">Редактировать</a>
+                </td>
+                <td>
+                    <a class="button bg-red" asp-action="Delete" asp-route-id="@product.Id">Удалить</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

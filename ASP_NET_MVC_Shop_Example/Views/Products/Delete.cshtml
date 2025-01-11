@@ -1,0 +1,20 @@
+﻿@using ASP_NET_MVC_Shop_Example.Models
+
+@{
+    ViewBag.Title = "Удалить товар";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+@model Product
+
+<div class="form-container">
+    <h3>Вы уверены, что хотите удалить товар @Model.Name?</h3>
+
+    <form asp-action="Delete" asp-route-id="@Model.Id">
+        <input class="button bg-red" type="submit" value="Удалить" />
+    </form>
+
+    <p>
+        <a class="full-width button bg-blue" asp-action="Index">Назад к списку</a>
+    </p>
+</div>

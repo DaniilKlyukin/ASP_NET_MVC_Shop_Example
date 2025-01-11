@@ -1,0 +1,36 @@
+﻿@using ASP_NET_MVC_Shop_Example.Models
+
+@model Product
+
+@{
+    ViewBag.Title = "Добавить товар";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class="form-container">
+    <h3>@ViewBag.Title</h3>
+    <form asp-action="create" asp-controller="products">
+        <p>
+            <label asp-for="Name"></label><br />
+            <input type="text" asp-for="Name" /><br />
+            <span asp-validation-for="Name" />
+        </p>
+        <p>
+            <label asp-for="Price">Цена, руб</label><br />
+            <input type="number" step=".01" asp-for="Price" /><br />
+            <span asp-validation-for="Price" />
+        </p>
+        <p>
+            <label asp-for="Description">Описание</label><br />
+            <textarea type="text" asp-for="Description"></textarea>
+            <span asp-validation-for="Description" />
+        </p>
+        <p>
+            <input class="button bg-green" type="submit" value="Добавить" />
+        </p>
+    </form>
+
+    <p>
+        <a class="full-width button bg-blue" asp-action="Index">Назад к списку</a>
+    </p>
+</div>

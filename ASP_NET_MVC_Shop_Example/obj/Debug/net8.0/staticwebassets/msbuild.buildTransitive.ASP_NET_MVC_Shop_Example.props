@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP_NET_MVC_Shop_Example.props" />
+</Project>
