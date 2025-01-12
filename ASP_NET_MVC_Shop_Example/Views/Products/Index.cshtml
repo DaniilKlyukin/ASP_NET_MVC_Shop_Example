@@ -7,11 +7,27 @@
     Layout = "/Views/Shared/_Layout.cshtml";
 }
 
+<div class="header">
+    <div class="search-container">
+        <form class="search-form" asp-action="index" asp-controller="products" method="get">
+            <input type="text" placeholder="Поиск товара" class="search-input" name="productName" asp-for="@Model.SearchProduct" />
+            <input class="search-button"
+                    type="submit"
+                    asp-controller="Products"
+                    asp-action="Index"
+                    asp-route-minPrice="@Model.FilterState.MinPrice"
+                    asp-route-maxPrice="@Model.FilterState.MaxPrice"
+                    asp-route-sortField="@Model.SortState.SortField"
+                    asp-route-sortDirection="@Model.SortState.SortDirection"
+                    value="Найти"/>
+        </form>        
+    </div>
+</div>
+
 <div class="container">
     @await Html.PartialAsync("ProductFilter", @Model.FilterState, ViewData)
 
     <div class="content">
-        <button class="apply-filters" id="toggleButton">Скрыть фильтры</button><br />
 
         <h3 class="dark bold">@ViewBag.Title</h3>
 
@@ -26,7 +42,7 @@
                                    property="Name"
                                    sort-direction="@Model.SortState.SortDirection"
                                    current-sort-field="@Model.SortState.SortField"
-                                   asp-route-productName="@Model.FilterState.ProductName"
+                                   asp-route-productName="@Model.SearchProduct"
                                    asp-route-minPrice="@Model.FilterState.MinPrice"
                                    asp-route-maxPrice="@Model.FilterState.MaxPrice"
                                    asp-route-sortField="Name"
@@ -38,7 +54,7 @@
                                    property="Price"
                                    sort-direction="@Model.SortState.SortDirection"
                                    current-sort-field="@Model.SortState.SortField"
-                                   asp-route-productName="@Model.FilterState.ProductName"
+                                   asp-route-productName="@Model.SearchProduct"
                                    asp-route-minPrice="@Model.FilterState.MinPrice"
                                    asp-route-maxPrice="@Model.FilterState.MaxPrice"
                                    asp-route-sortField="Price"
@@ -50,7 +66,7 @@
                                    property="Description"
                                    sort-direction="@Model.SortState.SortDirection"
                                    current-sort-field="@Model.SortState.SortField"
-                                   asp-route-productName="@Model.FilterState.ProductName"
+                                   asp-route-productName="@Model.SearchProduct"
                                    asp-route-minPrice="@Model.FilterState.MinPrice"
                                    asp-route-maxPrice="@Model.FilterState.MaxPrice"
                                    asp-route-sortField="Description"

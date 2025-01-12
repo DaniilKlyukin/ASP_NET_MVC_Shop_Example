@@ -24,7 +24,7 @@ namespace ASP_NET_MVC_Shop_Example.Filters
             var minPrice = state.MinPrice ?? await _context.Products.MinAsync(p => p.Price); // Если минимальная или максимальная цена не заданы, то достаём их из БД
             var maxPrice = state.MaxPrice ?? await _context.Products.MaxAsync(p => p.Price);
 
-            state = new FilterState(state.ProductName, minPrice, maxPrice);
+            state = new FilterState(minPrice, maxPrice);
 
             context.ActionArguments["filterState"] = state;
 

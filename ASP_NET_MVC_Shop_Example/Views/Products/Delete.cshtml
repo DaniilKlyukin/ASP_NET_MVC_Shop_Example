@@ -11,10 +11,10 @@
     <h3 class="dark bold">Вы уверены, что хотите удалить товар @Model.Name?</h3>
 
     <form asp-action="Delete" asp-route-id="@Model.Id">
-        <input class="button bg-red" type="submit" value="Удалить" />
+        <input class="form-button-delete" type="submit" value="Удалить" />
     </form>
 
     <p>
-        <a class="full-width button bg-blue" asp-action="Index">Назад к списку</a>
+        <a class="form-button-back" asp-action="Index">Назад к списку</a>
     </p>
 </div>

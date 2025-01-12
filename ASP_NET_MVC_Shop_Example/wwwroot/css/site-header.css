@@ -1,0 +1,76 @@
+.header {
+  height: 80px;
+  top: 0px; /* Чтобы не пролистывался и всегда был вверху */
+  position: sticky; /* Делаем заголовок липким */
+  background-color: white; /* Цвет фона блока */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Тень для блока */
+  margin-bottom: 20px; /* Отступ снизу для создания пространства между блоками */
+  padding: 10px 0; /* Внутренние отступы */
+  z-index: 1000; /* Устанавливаем порядок наложения */
+  display: flex; /* Используем flexbox для выравнивания содержимого */
+  align-items: flex-end; /* Выравниваем содержимое по нижнему краю */
+}
+
+.search-container {
+  width: 50%;
+  display: flex; /* Используем flexbox для выравнивания элементов внутри контейнера */
+  align-items: center; /* Вертикальное выравнивание элементов по центру */
+  padding: 5px; /* Внутренние отступы */
+  margin: auto auto 10px auto; /* Центрируем контейнер */
+  background-color: #f0f0f0; /* Серый цвет фона */
+  border-radius: 5px; /* Закругленные углы */
+  transition: background-color 0.3s, box-shadow 0.3s; /* Плавный переход для эффектов */
+}
+
+.search-container:hover {
+  background-color: white; /* Цвет фона при наведении */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Тень при наведении */
+}
+
+.search-input {
+    font-size: 16px;
+    width: 100%; /* Ширина полей ввода */
+    box-sizing: border-box; /* Учитывать отступы и границы в общей ширине */
+    flex: 1; /* Поле ввода занимает оставшееся пространство */
+    padding: 10px; /* Внутренние отступы для поля ввода */
+    border: none; /* Убираем рамку */
+    background-color: transparent; /* Прозрачный фон */
+    outline: none; /* Убираем обводку при фокусе */
+}
+
+/* Убираем подсветку при фокусе */
+.search-input:focus {
+  outline: none; /* Убираем обводку */
+  box-shadow: none; /* Убираем тень при фокусе */
+}
+
+.search-form {
+    display: flex; /* Используем flexbox для выравнивания элементов внутри контейнера */
+    width: 100%;
+}
+
+.search-button {
+  margin-left: 10px; /* Отступ слева для кнопки, чтобы сдвинуть её правее */
+  background-color: #007bff; /* Цвет фона кнопки */
+  color: white; /* Цвет текста кнопки */
+  border: none; /* Убираем рамку */
+  border-radius: 4px; /* Закругленные углы */
+  padding: 10px 15px; /* Внутренние отступы для кнопки */
+  cursor: pointer; /* Курсор в виде указателя */
+  transition: background-color 0.1s; /* Плавный переход для кнопки */
+}
+
+
+
+.search-button:hover {
+  background-color: #0056b3; /* Цвет фона кнопки при наведении */
+}
+
+    .search-button:active {
+        background-color: #007bff;
+        transform: translateY(1px);
+    }
+
+.content {
+  padding: 80px 20px; /* Отступы для контента, чтобы он не прятался под фиксированным блоком */
+}

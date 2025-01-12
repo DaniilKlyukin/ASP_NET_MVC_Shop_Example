@@ -12,25 +12,25 @@
     <form asp-action="Create" asp-controller="products">
         <p>
             <label asp-for="Name"></label><br />
-            <input type="text" asp-for="Name" /><br />
+            <input class="form-input" type="text" asp-for="Name" /><br />
             <span asp-validation-for="Name" />
         </p>
         <p>
             <label asp-for="Price"></label><br />
-            <input type="number" step="1" asp-for="Price" /><br />
+            <input class="form-input" type="number" step="1" asp-for="Price" /><br />
             <span asp-validation-for="Price" />
         </p>
         <p>
             <label asp-for="Description"></label><br />
-            <textarea type="text" asp-for="Description"></textarea>
+            <textarea class="form-textarea" type="text" asp-for="Description"></textarea>
             <span asp-validation-for="Description" />
         </p>
         <p>
-            <input class="button bg-green" type="submit" value="Добавить" />
+            <input class="form-button-create" type="submit" value="Добавить" />
         </p>
     </form>
 
     <p>
-        <a class="full-width button bg-blue" asp-action="Index">Назад к списку</a>
+        <a class="form-button-back" asp-action="Index">Назад к списку</a>
     </p>
 </div>

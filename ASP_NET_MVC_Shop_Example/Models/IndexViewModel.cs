@@ -3,6 +3,8 @@
     public class IndexViewModel
     {
         public IEnumerable<Product> Products { get; set; } = null!;
+
+        public string? SearchProduct { get; set; }
         public SortState SortState { get; set; } = null!;
         public FilterState FilterState { get; set; } = null!;
     }

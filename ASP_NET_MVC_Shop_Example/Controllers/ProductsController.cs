@@ -19,7 +19,7 @@ namespace ASP_NET_MVC_Shop_Example.Controllers
 
         [TypeFilter(typeof(SortStateAttribute))]
         [TypeFilter(typeof(FilterStateAttribute))]
-        public async Task<IActionResult> Index(SortState sortState, FilterState filterState)
+        public async Task<IActionResult> Index(string? productName, SortState sortState, FilterState filterState)
         {
             if (!ModelState.IsValid)
             {
@@ -35,8 +35,8 @@ namespace ASP_NET_MVC_Shop_Example.Controllers
 
             IQueryable<Product> productsExpression = _context.Products;
 
-            if (!string.IsNullOrEmpty(filterState.ProductName))
-                productsExpression = productsExpression.Where(p => EF.Functions.Like(p.Name.ToLower(), $"%{filterState.ProductName.ToLower()}%"));
+            if (!string.IsNullOrEmpty(productName))
+                productsExpression = productsExpression.Where(p => EF.Functions.Like(p.Name.ToLower(), $"%{productName.ToLower()}%"));
 
             if (filterState.MinPrice.HasValue)
                 productsExpression = productsExpression.Where(p => p.Price >= filterState.MinPrice);
@@ -52,6 +52,7 @@ namespace ASP_NET_MVC_Shop_Example.Controllers
             var viewModel = new IndexViewModel
             {
                 Products = products,
+                SearchProduct = productName,
                 SortState = new SortState(sortState.SortField, sortState.SortDirection),
                 FilterState = filterState
             };

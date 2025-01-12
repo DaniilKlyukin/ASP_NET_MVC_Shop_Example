@@ -8,8 +8,8 @@
     margin: auto; /* Центрирование формы */
 }
 
-input,
-textarea {
+.form-input,
+.form-textarea {
     font-size: 16px;
     width: 100%; /* Ширина полей ввода */
     padding: 10px; /* Отступы внутри полей ввода */
@@ -19,9 +19,84 @@ textarea {
     box-sizing: border-box; /* Учитывать отступы и границы в общей ширине */
 }
 
-input:focus,
-textarea:focus {
-  border-color: #007bff; /* Цвет границы при фокусе */
-  outline: none; /* Убираем обводку при фокусе */
-  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Тень при фокусе */
+    .form-input:focus,
+    .form-textarea:focus {
+        border-color: #007bff; /* Цвет границы при фокусе */
+        outline: none; /* Убираем обводку при фокусе */
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Тень при фокусе */
+    }
+
+.form-button-create {
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 16px;
+    background-color: rgb(0, 190, 0);
+    display: inline-block;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease;
 }
+
+    .form-button-create:hover {
+        cursor: default;
+        background-color: rgb(0, 225, 0);
+    }
+
+    .form-button-create:active {
+        background-color: rgb(0, 255, 0);
+    }
+
+.form-button-delete {
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 16px;
+    background-color: rgb(190, 0, 0);
+    display: inline-block;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+    .form-button-delete:hover {
+        cursor: default;
+        background-color: rgb(225, 0, 0);
+    }
+
+    .form-button-delete:active {
+        background-color: rgb(255, 0, 0);
+    }
+
+.form-button-back {
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 16px;
+    background-color: rgb(0, 100, 225);
+    display: inline-block;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+    .form-button-back:hover {
+        cursor: default;
+        background-color: rgb(0, 145, 225);
+    }
+
+    .form-button-back:active {
+        background-color: rgb(0, 190, 255);
+    }

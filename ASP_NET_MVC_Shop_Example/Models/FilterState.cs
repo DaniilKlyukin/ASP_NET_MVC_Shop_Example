@@ -2,11 +2,10 @@
 
 namespace ASP_NET_MVC_Shop_Example.Models
 {
-    public class FilterState : IValidatableObject
+    public class FilterState
     {
-        public FilterState(string? productName, double? minPrice, double? maxPrice)
+        public FilterState(double? minPrice, double? maxPrice)
         {
-            ProductName = productName;
             MinPrice = minPrice;
             MaxPrice = maxPrice;
         }
@@ -15,10 +14,6 @@ namespace ASP_NET_MVC_Shop_Example.Models
         {
 
         }
-
-        [Display(Name = "Название товара")]
-        [StringLength(100)]
-        public string? ProductName { get; set; }
 
         [Display(Name = "Минимальная цена, руб")]
         [DataType(DataType.Currency)]
@@ -29,13 +24,5 @@ namespace ASP_NET_MVC_Shop_Example.Models
         [DataType(DataType.Currency)]
         [Range(0.01, double.MaxValue, ErrorMessage = "Цена должна быть не менее 0,01")]
         public double? MaxPrice { get; set; }
-
-        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
-        {
-            if (MinPrice > MaxPrice)
-            {
-                yield return new ValidationResult("Максмальная цена не может быть меньше минимальной");
-            }
-        }
     }
 }

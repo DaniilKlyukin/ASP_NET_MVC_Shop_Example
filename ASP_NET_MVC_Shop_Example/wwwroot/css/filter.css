@@ -1,12 +1,13 @@
 .filter-panel {
     width: 250px; /* Ширина панели фильтров */
+    min-width: 250px;
     height: 100%; /* Высота панели на всю страницу */
-    background-color: #f4f4f4; /* Цвет фона панели */
+    background-color: white;
+    margin-right: 50px;
     padding: 20px; /* Отступы внутри панели */
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Тень для панели */
     overflow-y: auto; /* Прокрутка для панели, если контента много */
-    border-radius: 5px;
-    transition: transform 0.3s ease; /* Плавный переход */
+    border-radius: 10px;
 }
 
     .filter-panel h2 {
@@ -31,14 +32,3 @@
     .apply-filters:hover {
         background-color: #979797; /* Цвет кнопки при наведении */
     }
-
-.hidden {
-    transform: translateX(-100%); /* Перемещение панели влево */
-    width: 0; /* Уменьшение ширины до 0 */
-    padding: 0; /* Убираем отступы */
-    box-shadow: none; /* Убираем тень */
-}
-
-.shown {
-    transform: translateX(100%); /* Перемещение панели влево */
-}

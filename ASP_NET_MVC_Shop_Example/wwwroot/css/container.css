@@ -1,17 +1,15 @@
 .container {
+    margin: 20px 100px 0 100px;
     height: 100%;
     display: flex;
-    margin: 0 auto;
-    padding: 0;
-    position: relative; /* Для правильного позиционирования */
 }
 
 .content {
     height: 100%;
     flex-grow: 1; /* Занимает оставшееся пространство */
     margin-left: 0; /* Отступ слева от панели фильтров */
-    background-color: #ffffff;
-    border-radius: 5px;
+    background-color: white;
+    border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px; /* Отступы внутри основного содержимого */
 }
