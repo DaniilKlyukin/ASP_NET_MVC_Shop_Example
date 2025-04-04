@@ -21,6 +21,10 @@ input.valid, textarea.valid {
     background-color: rgb(210, 255, 210, 0.2);
 }
 
+textarea {
+    resize: vertical;
+}
+
 .form-container {
     font-size: 16px;
     background-color: #ffffff; /* Цвет фона формы */
