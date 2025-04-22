@@ -15,6 +15,7 @@ namespace ASP_NET_MVC_Shop_Example.Controllers
         }
 
         // GET: Products
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             var products = await _context.Products.ToListAsync();
@@ -22,6 +23,7 @@ namespace ASP_NET_MVC_Shop_Example.Controllers
         }
 
         // GET: Products/Create
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
@@ -40,6 +42,7 @@ namespace ASP_NET_MVC_Shop_Example.Controllers
         }
 
         // GET: Products/Edit/
+        [HttpGet]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -68,6 +71,7 @@ namespace ASP_NET_MVC_Shop_Example.Controllers
         }
 
         // GET: Products/Delete/
+        [HttpGet]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
